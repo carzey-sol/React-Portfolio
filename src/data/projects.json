@@ -1,0 +1,26 @@
+[
+  {
+    "title": "First Semester Web Project",
+    "imageSrc": "projects/project.png",
+    "description": "Made to learn the fundamentals of HTML, CSS and JS.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Tailwind Mini Project",
+    "imageSrc": "projects/project.png",
+    "description": "Made during Web design and hosting workshop.",
+    "skills": ["HTML", "CSS", "Tailwind-CSS"],
+    "demo": "#",
+    "source": "https://github.com/carzey-sol/Tailwind-Mini-Project"
+  },
+  {
+    "title": "Imjulien Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Project made to learn more about frontend development.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://github.com/carzey-sol/Imjulien-Clone",
+    "source": "https://github.com/carzey-sol/Imjulien-Clone"
+  }
+]
